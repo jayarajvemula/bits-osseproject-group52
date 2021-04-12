@@ -2,7 +2,7 @@
 
 ### Scope of Repository 
 
-Repository strives to help new users learning Open source Software Contribution. It helps provide information for these topics -
+Repository strives to help new users learn and contribute back to Open source Software Contribution. It helps provide information for these topics -
 
 1. Understanding licensing of Open source Projects 
 2. Sample Open source Projects 
