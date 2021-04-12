@@ -7,14 +7,15 @@ Repository strives to help new users learn and contribute back to Open source So
 1. Understanding licensing of Open source Projects 
 2. Sample Open source Projects 
 3. How to document in open source project
-4. Understand CAL Licenses --Jay
+4. Understand CAL Licenses 
 5. Find Open Source Project that suits your need!
 
 
-Contributors: 
+Contributors to Repository : 
 Jayaraj Vemula - 2020MT93053
 Vellaisamy - 
 VijayaLakshmi - 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
