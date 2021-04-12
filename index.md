@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages . This is Header page for bits-opensource-softwareengineering-Project - Group 52
+## This is Index Page for bits-opensource-softwareengineering-Project - Group 52
 
 You can use the [editor on GitHub](https://github.com/jayarajvemula/bits-osseproject-group52/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
