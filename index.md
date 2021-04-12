@@ -1,4 +1,4 @@
-## This is Index Page for bits-opensource-softwareengineering-Project - Group 52
+## Index Page for bits-opensource-softwareengineering-Project - Group 52
 
 ### Scope of Repository 
 
