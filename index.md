@@ -1,14 +1,17 @@
-## Index Page for bits-opensource-softwareengineering-Project - Group 52
+## Web Page for bits-opensource-softwareengineering-Project - Group 52
 
 ### Scope of Repository 
 
-Repository strives to help new users learn and contribute back to Open source Software Contribution. It helps provide information for these topics -
+Repository strives to help new users leverage prelimimary Mathematics Functions in powershell. 
 
-1. Understanding licensing of Open source Projects 
-2. Sample Open source Projects 
-3. How to document in open source project
-4. Understand CLA (Contrributor License Agreements) Licenses 
-5. Find Open Source Project that suits your need!
+Programs	link
+AreaofParallelogram	https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaofParallelogram_powershell.ps1
+AreaofRectangle	https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaofRectangle_powershell.ps1
+AreaofRhombus	https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaofRhombus_powershell.ps1
+AreaofTrapezoid	https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaofTrapezoid_powershell.ps1
+AreaofTriangle	https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaofTriangle_powershell.ps1
+AreaOfSizes	https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaOfSizes.java
+AreaofSphere	https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaofSphere_powershell.ps1
 
 
 Contributors to Repository : 
