@@ -7,6 +7,7 @@ This list is continuously updated. You can take pull request and contribute.
 A list of programs that work towards the math project in powershell.
 
 
+
 | Programs | link |
 | ------ | ------ |
 | AreaofParallelogram | [https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaofParallelogram_powershell.ps1][PlDb] |
@@ -31,4 +32,6 @@ A list of programs that work towards the math project in powershell.
  Apache-2.0 License
 
 **Free Powershell scripted Programs!**
+
+Contributors - @jayarajvemula, @vijayalakshmi, @vellaisamy
    
