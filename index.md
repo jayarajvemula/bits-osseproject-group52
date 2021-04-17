@@ -31,8 +31,8 @@ Repository strives to help new users leverage prelimimary Mathematics Functions 
 |Contributor Name | BITS ID | github id |
 |----------------|----------|------------|
 |Jayaraj Vemula | 2020MT93053 | @jayarajvemula|
-|Vellaisamy | | @vellabits| 
-|VijayaLakshmi| | @vijayalakshminp1985|
+|Vellaisamy | 2020MT93200 | @vellabits| 
+|VijayaLakshmi| 2020MT93040 | @vijayalakshminp1985|
 
 
 License : Apache License 2.0 
