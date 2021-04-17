@@ -25,9 +25,13 @@ Repository strives to help new users leverage prelimimary Mathematics Functions 
    [PlGc]: <https://github.com/jayarajvemula/bits-osseproject-group52/blob/main/AreaofSphere_powershell.ps1>
 
 
-Contributors to Repository : 
-Jayaraj Vemula - 2020MT93053
-Vellaisamy - 
-VijayaLakshmi - 
+
+## Contributors to Repository 
+
+|Contributor Name | BITS ID | github id |
+|----------------|----------|------------|
+|Jayaraj Vemula | 2020MT93053 | @jayarajvemula|
+|Vellaisamy | | @vellabits| 
+|VijayaLakshmi| | @vijayalakshminp1985|
 
 
