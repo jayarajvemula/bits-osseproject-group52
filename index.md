@@ -2,7 +2,7 @@
 
 ### Scope of Repository 
 
-Repository strives to help new users leverage prelimimary Mathematics Functions in powershell. 
+Repository strives to help new users leverage prelimimary Mathematics Functions in powershell.  We welcome all contributions to this source code . 
 
 ## Example Programs available -
 
@@ -33,5 +33,8 @@ Repository strives to help new users leverage prelimimary Mathematics Functions 
 |Jayaraj Vemula | 2020MT93053 | @jayarajvemula|
 |Vellaisamy | | @vellabits| 
 |VijayaLakshmi| | @vijayalakshminp1985|
+
+
+License : Apache License 2.0 
 
 
